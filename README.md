@@ -1,8 +1,8 @@
 ### Olá me chamo Luciano Gouveia. 👋
 
 
-- 🔭 Trabalhando em um projeto pessoal para Gestão de pequenos négocios.
-- 🌱 Estou estudando Javascript e PHP
+- 🔭 Trabalhando com desenvolvedor PHP.
+- 🌱 Estou estudando Laravel, Elixir e GO.
 - 🤔 Procuro oportunidade para crescer profissionalemnte, pessoalmente e aumentar cada vez mais o meus conhecimentos.
 - 💬 Contate-me pelo e-mail: ljdgb2012@gmail.com
 - ⚡ Fatos pessoais: Apaixonado pelo meu filho, por tecnologia e games.
